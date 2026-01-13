@@ -47,10 +47,10 @@ Each lab is documented and supported by structured ticketing to reflect how issu
 - Disk Cleanup
 - Settings
 - Services
-- `ping'
-- 'tracert'
-- 'nslookup'
+- ping
+- tracert
+- nslookup
 - Network Adapter Settings
   
 
-More labs will be added as skills progress.
+This repository will be updated added as skills progress.
